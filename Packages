@@ -2,7 +2,7 @@ Package: com.Tornado.axy
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Tornado
-Depends: PUBG 
+Depends:  
 Conflicts: 
 Filename: debs/com.Tornado.axy_0.1_iphoneos-arm.deb
 Size: 3375950
