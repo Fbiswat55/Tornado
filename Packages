@@ -1,0 +1,17 @@
+Package: com.Tornado.axy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tornado
+Depends: PUBG 
+Conflicts: 
+Filename: debs/com.Tornado.axy_0.1_iphoneos-arm.deb
+Size: 3375950
+MD5sum: 93f2dd975687a9563cc2c0bf914ff544
+SHA1: f0acf044b1c9864a72ad0cf3caafad9f6e991984
+SHA256: deae0ce3580be90b731c214a6cd80a028c2ab8efb2e3c93ca69c997d82cfd777
+Section: Tweaks
+Priority: optional
+Description: Tornado Engine Hack For Pubg Ios
+Author: Tornado
+Depiction: https://fbiswat55.github.io/Tornado/
+Name: Tornado Engine
